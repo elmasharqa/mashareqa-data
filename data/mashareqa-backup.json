@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T11:58:42.480Z",
+    "exportedAt": "2026-07-13T12:01:41.557Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -366,17 +366,17 @@
       {
         "name": "فوزي عادل جمال",
         "phone": "01027892117",
-        "notes": "",
-        "totalAmount": 90,
+        "notes": "له 2 طابع ب 5",
+        "totalAmount": 0,
         "paidAmount": 0,
-        "dossierStatus": "طلب",
+        "dossierStatus": "استلم",
         "photo40Status": "",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "طلب",
-        "stamp10Status": "طلب",
-        "netSubmissionStatus": "طلب",
-        "updatedAt": "2026-07-13T11:55:14.613Z",
+        "stamp5Status": "دفع",
+        "stamp10Status": "استلم",
+        "netSubmissionStatus": "استلم",
+        "updatedAt": "2026-07-13T12:00:48.039Z",
         "id": "mrj60zsll3yr2urvx",
         "createdBy": "admin",
         "createdAt": "2026-07-13T11:55:14.613Z",
