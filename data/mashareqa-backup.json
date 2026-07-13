@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T11:52:41.562Z",
+    "exportedAt": "2026-07-13T11:55:41.547Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -343,6 +343,44 @@
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:54:01.474Z",
         "receiptNumber": 13
+      },
+      {
+        "name": "محمد هانى جمال اسماعيل",
+        "phone": "01099475026",
+        "notes": "",
+        "totalAmount": 90,
+        "paidAmount": 0,
+        "dossierStatus": "طلب",
+        "photo40Status": "",
+        "photo50Status": "",
+        "photo80Status": "",
+        "stamp5Status": "طلب",
+        "stamp10Status": "طلب",
+        "netSubmissionStatus": "طلب",
+        "updatedAt": "2026-07-13T11:53:58.472Z",
+        "id": "mrj5zd1kc6pkf1qe6",
+        "createdBy": "admin",
+        "createdAt": "2026-07-13T11:53:58.472Z",
+        "receiptNumber": 15
+      },
+      {
+        "name": "فوزي عادل جمال",
+        "phone": "01027892117",
+        "notes": "",
+        "totalAmount": 90,
+        "paidAmount": 0,
+        "dossierStatus": "طلب",
+        "photo40Status": "",
+        "photo50Status": "",
+        "photo80Status": "",
+        "stamp5Status": "طلب",
+        "stamp10Status": "طلب",
+        "netSubmissionStatus": "طلب",
+        "updatedAt": "2026-07-13T11:55:14.613Z",
+        "id": "mrj60zsll3yr2urvx",
+        "createdBy": "admin",
+        "createdAt": "2026-07-13T11:55:14.613Z",
+        "receiptNumber": 16
       }
     ],
     "sms_setting_whatsapp": "+201557979693",
@@ -449,7 +487,7 @@
       "phoneCol": true,
       "dossierStatus": true
     },
-    "sms_receipt_counter": 14,
+    "sms_receipt_counter": 16,
     "sms_auto_backup_Sun_Jul_12_2026": {
       "sms_users": "[{\"id\":\"1\",\"username\":\"admin\",\"password\":\"admin123\",\"name\":\"المدير\",\"role\":\"admin\",\"createdAt\":\"2026-07-10T16:56:31.734Z\"},{\"id\":\"2\",\"username\":\"user1\",\"password\":\"user123\",\"name\":\"موظف\",\"role\":\"employee\",\"createdAt\":\"2026-07-10T16:56:31.739Z\"}]",
       "sms_orders": "[{\"personName\":\"اسامه منصور\",\"productName\":\"تبلوه 30×40\",\"totalPrice\":200,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T11:50:05.892Z\",\"id\":\"mrgayo90m9f7y0lz1\",\"createdAt\":\"2026-07-11T11:50:05.892Z\",\"createdBy\":\"admin\"},{\"personName\":\"لمياء\",\"productName\":\"16 مذكرة\",\"totalPrice\":290,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T18:53:15.867Z\",\"id\":\"mrggokrcdvftshqep\",\"createdAt\":\"2026-07-11T14:30:12.504Z\",\"createdBy\":\"admin\",\"status\":\"طلب\"},{\"personName\":\"سرور\",\"productName\":\"500 جواب\",\"totalPrice\":1000,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T14:31:37.224Z\",\"id\":\"mrggqe4otq0fqupo8\",\"createdAt\":\"2026-07-11T14:31:37.224Z\",\"createdBy\":\"admin\"},{\"personName\":\"اولاد ابوعلى\",\"productName\":\"400 استيكر عادي\",\"totalPrice\":350,\"paidAmount\":0,\"status\":\"طلب\",\"updatedAt\":\"2026-07-11T21:38:04.600Z\",\"id\":\"mrgvyth4cablrkj8b\",\"createdAt\":\"2026-07-11T21:38:04.600Z\",\"createdBy\":\"admin\"}]",
