@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T11:42:23.516Z",
+    "exportedAt": "2026-07-13T11:52:41.562Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -189,7 +189,8 @@
         "id": "mrhxlvybmknhpr0m0",
         "createdBy": "admin",
         "createdAt": "2026-07-12T15:11:46.691Z",
-        "receiptNumber": 3
+        "receiptNumber": 3,
+        "manuallyHighlighted": true
       },
       {
         "name": "طارق وليد السيد",
@@ -247,25 +248,6 @@
         "createdBy": "admin",
         "createdAt": "2026-07-13T08:00:52.546Z",
         "receiptNumber": 6
-      },
-      {
-        "name": "00",
-        "phone": "",
-        "notes": "",
-        "totalAmount": 0,
-        "paidAmount": 0,
-        "dossierStatus": "",
-        "photo40Status": "",
-        "photo50Status": "",
-        "photo80Status": "",
-        "stamp5Status": "",
-        "stamp10Status": "",
-        "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T08:32:06.319Z",
-        "id": "mriyrr8vu1wyfjc18",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T08:32:06.319Z",
-        "receiptNumber": 8
       },
       {
         "name": "معتز عوض ممدوح",
@@ -349,14 +331,14 @@
         "notes": "له صور ب 40",
         "totalAmount": 0,
         "paidAmount": 45,
-        "dossierStatus": "دفع",
+        "dossierStatus": "استلم",
         "photo40Status": "دفع",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "دفع",
-        "stamp10Status": "دفع",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T11:15:51.519Z",
+        "stamp5Status": "استلم",
+        "stamp10Status": "استلم",
+        "netSubmissionStatus": "استلم",
+        "updatedAt": "2026-07-13T11:51:21.460Z",
         "id": "mrj3u9kyib63niioo",
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:54:01.474Z",
