@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T12:19:41.552Z",
+    "exportedAt": "2026-07-13T12:22:41.551Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -549,6 +549,16 @@
         "account": "لا",
         "notes": "",
         "createdAt": "2026-07-13T09:01:15.407Z"
+      },
+      {
+        "id": "mrj6x4ltdi7g2m71r",
+        "productName": "دسهات الورق التقديم",
+        "amount": 300,
+        "quantity": "1",
+        "person": "",
+        "account": "لا",
+        "notes": "",
+        "createdAt": "2026-07-13T12:20:13.841Z"
       }
     ],
     "sms_prices": {
