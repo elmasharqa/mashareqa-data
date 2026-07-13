@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T12:49:42.487Z",
+    "exportedAt": "2026-07-13T12:52:49.051Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -425,7 +425,7 @@
         "name": "عمرو رجب الشحات",
         "phone": "01141240962",
         "notes": "",
-        "totalAmount": 35,
+        "totalAmount": 0,
         "paidAmount": 0,
         "dossierStatus": "",
         "photo40Status": "",
@@ -433,8 +433,8 @@
         "photo80Status": "",
         "stamp5Status": "",
         "stamp10Status": "",
-        "netSubmissionStatus": "طلب",
-        "updatedAt": "2026-07-13T12:44:02.774Z",
+        "netSubmissionStatus": "دفع",
+        "updatedAt": "2026-07-13T12:52:10.607Z",
         "id": "mrj7quri9skz2aqww",
         "createdBy": "admin",
         "createdAt": "2026-07-13T12:43:20.766Z",
