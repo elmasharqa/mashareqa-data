@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T12:25:41.554Z",
+    "exportedAt": "2026-07-13T12:28:41.557Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -386,7 +386,7 @@
         "name": "حازم عبدالمحسن حسنى",
         "phone": "01012139043",
         "notes": "",
-        "totalAmount": 35,
+        "totalAmount": 0,
         "paidAmount": 0,
         "dossierStatus": "",
         "photo40Status": "",
@@ -394,8 +394,8 @@
         "photo80Status": "",
         "stamp5Status": "",
         "stamp10Status": "",
-        "netSubmissionStatus": "طلب",
-        "updatedAt": "2026-07-13T12:15:47.801Z",
+        "netSubmissionStatus": "دفع",
+        "updatedAt": "2026-07-13T12:27:47.235Z",
         "id": "mrj6rfbtbu35fd7jr",
         "createdBy": "admin",
         "createdAt": "2026-07-13T12:15:47.801Z",
