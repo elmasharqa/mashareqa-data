@@ -1,7 +1,7 @@
 {
   "_meta": {
     "version": "1.1.1",
-    "exportedAt": "2026-07-13T18:03:31.650Z",
+    "exportedAt": "2026-07-13T18:03:42.321Z",
     "source": "mashareqa-system",
     "keysCount": 23
   },
@@ -41,6 +41,18 @@
         "id": "mrgvyth4cablrkj8b",
         "createdAt": "2026-07-11T21:38:04.600Z",
         "createdBy": "admin"
+      },
+      {
+        "personName": "ا هناء نعيم",
+        "productName": "تصوير ورقى",
+        "totalPrice": 40,
+        "paidAmount": 40,
+        "status": "طلب",
+        "notes": "",
+        "updatedAt": "2026-07-13T09:53:41.767Z",
+        "id": "mrhnuej5hokg6shml",
+        "createdAt": "2026-07-12T10:38:27.857Z",
+        "createdBy": "admin"
       }
     ],
     "sms_remembered": {
@@ -78,13 +90,11 @@
         "stamp5Status": "استلم",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "استلم",
-        "updatedAt": "2026-07-13T13:07:18.106Z",
+        "updatedAt": "2026-07-11T23:32:08.204Z",
         "id": "mrg5ec8k2apxb3fb8",
         "createdBy": "admin",
         "createdAt": "2026-07-11T09:14:19.124Z",
-        "manuallyHighlighted": true,
-        "archived": true,
-        "archivedAt": "2026-07-13T13:07:18.106Z"
+        "manuallyHighlighted": true
       },
       {
         "name": "محمد حجازي عبده",
@@ -99,13 +109,11 @@
         "stamp5Status": "استلم",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T13:07:20.922Z",
+        "updatedAt": "2026-07-11T23:32:09.004Z",
         "id": "mrghxw5dg00i0yfbz",
         "createdBy": "admin",
         "createdAt": "2026-07-11T15:05:26.785Z",
-        "manuallyHighlighted": true,
-        "archived": true,
-        "archivedAt": "2026-07-13T13:07:20.922Z"
+        "manuallyHighlighted": true
       },
       {
         "name": "منة علاءعبدالعظيم",
@@ -120,13 +128,11 @@
         "stamp5Status": "استلم",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T13:07:23.634Z",
+        "updatedAt": "2026-07-11T20:51:58.869Z",
         "id": "mrghz6m99ryh9s7ia",
         "createdBy": "admin",
         "createdAt": "2026-07-11T15:06:27.009Z",
-        "manuallyHighlighted": true,
-        "archived": true,
-        "archivedAt": "2026-07-13T13:07:23.634Z"
+        "manuallyHighlighted": true
       },
       {
         "name": "زياد وائل",
@@ -141,13 +147,11 @@
         "stamp5Status": "",
         "stamp10Status": "",
         "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T13:07:27.210Z",
+        "updatedAt": "2026-07-11T23:32:10.172Z",
         "id": "mrgi54yw2dchni119",
         "createdBy": "admin",
         "createdAt": "2026-07-11T15:11:04.808Z",
-        "manuallyHighlighted": true,
-        "archived": true,
-        "archivedAt": "2026-07-13T13:07:27.210Z"
+        "manuallyHighlighted": true
       },
       {
         "name": "دعاء السيد",
@@ -181,14 +185,12 @@
         "stamp5Status": "استلم",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "استلم",
-        "updatedAt": "2026-07-13T13:07:33.347Z",
+        "updatedAt": "2026-07-12T18:40:06.975Z",
         "id": "mrhxlvybmknhpr0m0",
         "createdBy": "admin",
         "createdAt": "2026-07-12T15:11:46.691Z",
         "receiptNumber": 3,
-        "manuallyHighlighted": true,
-        "archived": true,
-        "archivedAt": "2026-07-13T13:07:33.347Z"
+        "manuallyHighlighted": true
       },
       {
         "name": "طارق وليد السيد",
@@ -272,14 +274,14 @@
         "notes": "",
         "totalAmount": 0,
         "paidAmount": 0,
-        "dossierStatus": "استلم",
-        "photo40Status": "دفع",
+        "dossierStatus": "دفع",
+        "photo40Status": "",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "استلم",
-        "stamp10Status": "استلم",
-        "netSubmissionStatus": "استلم",
-        "updatedAt": "2026-07-13T14:49:09.261Z",
+        "stamp5Status": "دفع",
+        "stamp10Status": "دفع",
+        "netSubmissionStatus": "دفع",
+        "updatedAt": "2026-07-13T10:20:38.860Z",
         "id": "mrj2bvd9h45t1qd69",
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:11:43.629Z",
@@ -297,8 +299,8 @@
         "photo80Status": "",
         "stamp5Status": "دفع",
         "stamp10Status": "استلم",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T13:07:42.276Z",
+        "netSubmissionStatus": "استلم",
+        "updatedAt": "2026-07-13T10:20:22.717Z",
         "id": "mrj2i4dfrlrm3ub5y",
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:16:35.235Z",
@@ -307,22 +309,21 @@
       {
         "name": "ملك السيد عبد المعطي",
         "phone": "01065843325",
-        "notes": "",
+        "notes": "لها 2 طابع تعليمي 5",
         "totalAmount": 0,
         "paidAmount": 0,
         "dossierStatus": "استلم",
         "photo40Status": "",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "استلم",
+        "stamp5Status": "دفع",
         "stamp10Status": "استلم",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T17:17:47.410Z",
+        "netSubmissionStatus": "استلم",
+        "updatedAt": "2026-07-13T10:52:32.017Z",
         "id": "mrj3mgep4aybnkyoh",
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:47:57.073Z",
-        "receiptNumber": 12,
-        "extraAmount": 0
+        "receiptNumber": 12
       },
       {
         "name": "سعد هيثم سعد عوض",
@@ -336,8 +337,8 @@
         "photo80Status": "",
         "stamp5Status": "استلم",
         "stamp10Status": "استلم",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T13:07:44.978Z",
+        "netSubmissionStatus": "استلم",
+        "updatedAt": "2026-07-13T11:51:21.460Z",
         "id": "mrj3u9kyib63niioo",
         "createdBy": "admin",
         "createdAt": "2026-07-13T10:54:01.474Z",
@@ -353,36 +354,33 @@
         "photo40Status": "",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "استلم",
+        "stamp5Status": "دفع",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T17:35:40.886Z",
+        "updatedAt": "2026-07-13T12:04:27.134Z",
         "id": "mrj5zd1kc6pkf1qe6",
         "createdBy": "admin",
         "createdAt": "2026-07-13T11:53:58.472Z",
-        "receiptNumber": 15,
-        "manuallyHighlighted": true
+        "receiptNumber": 15
       },
       {
         "name": "فوزي عادل جمال",
         "phone": "01027892117",
-        "notes": "",
+        "notes": "له 2 طابع ب 5",
         "totalAmount": 0,
         "paidAmount": 0,
         "dossierStatus": "استلم",
         "photo40Status": "",
         "photo50Status": "",
         "photo80Status": "",
-        "stamp5Status": "استلم",
+        "stamp5Status": "دفع",
         "stamp10Status": "استلم",
         "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T17:35:20.750Z",
+        "updatedAt": "2026-07-13T12:17:58.410Z",
         "id": "mrj60zsll3yr2urvx",
         "createdBy": "admin",
         "createdAt": "2026-07-13T11:55:14.613Z",
-        "receiptNumber": 16,
-        "extraAmount": 0,
-        "manuallyHighlighted": true
+        "receiptNumber": 16
       },
       {
         "name": "حازم عبدالمحسن حسنى",
@@ -404,6 +402,26 @@
         "receiptNumber": 17
       },
       {
+        "name": "00",
+        "phone": "",
+        "notes": "",
+        "totalAmount": 30,
+        "paidAmount": 30,
+        "dossierStatus": "طلب",
+        "photo40Status": "",
+        "photo50Status": "",
+        "photo80Status": "",
+        "stamp5Status": "",
+        "stamp10Status": "",
+        "netSubmissionStatus": "",
+        "updatedAt": "2026-07-13T12:37:58.736Z",
+        "id": "mrj7jvfukfkzepljm",
+        "createdBy": "admin",
+        "createdAt": "2026-07-13T12:37:55.050Z",
+        "receiptNumber": 18,
+        "manuallyHighlighted": false
+      },
+      {
         "name": "عمرو رجب الشحات",
         "phone": "01141240962",
         "notes": "5تصوير",
@@ -421,127 +439,28 @@
         "createdBy": "admin",
         "createdAt": "2026-07-13T12:43:20.766Z",
         "receiptNumber": 19
-      },
-      {
-        "name": "هاني علاء طه",
-        "phone": "01023201643",
-        "notes": "اولى اعدادي",
-        "totalAmount": 0,
-        "paidAmount": 12.5,
-        "dossierStatus": "",
-        "photo40Status": "",
-        "photo50Status": "",
-        "photo80Status": "",
-        "stamp5Status": "استلم",
-        "stamp10Status": "استلم",
-        "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T13:32:04.311Z",
-        "id": "mrj986ce1fnq1df83",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T13:24:48.542Z",
-        "receiptNumber": 21
-      },
-      {
-        "name": "شمس علاء طه",
-        "phone": "",
-        "notes": "تجارة",
-        "totalAmount": 0,
-        "paidAmount": 90,
-        "dossierStatus": "استلم",
-        "photo40Status": "",
-        "photo50Status": "",
-        "photo80Status": "",
-        "stamp5Status": "استلم",
-        "stamp10Status": "استلم",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T13:32:06.511Z",
-        "id": "mrj98ucm8zfng21nx",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T13:25:19.654Z",
-        "receiptNumber": 22
-      },
-      {
-        "name": "00",
-        "phone": "",
-        "notes": "",
-        "totalAmount": 60,
-        "paidAmount": 0,
-        "dossierStatus": "",
-        "photo40Status": "",
-        "photo50Status": "",
-        "photo80Status": "",
-        "stamp5Status": "طلب",
-        "stamp10Status": "طلب",
-        "netSubmissionStatus": "طلب",
-        "updatedAt": "2026-07-13T16:25:50.263Z",
-        "id": "mrjddegjwvoyr7uno",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T15:20:50.803Z",
-        "receiptNumber": 26,
-        "extraAmount": 0
-      },
-      {
-        "name": "0",
-        "phone": "",
-        "notes": "",
-        "extraAmount": 0,
-        "totalAmount": 90,
-        "paidAmount": 0,
-        "dossierStatus": "طلب",
-        "photo40Status": "",
-        "photo50Status": "",
-        "stamp5Status": "طلب",
-        "stamp10Status": "طلب",
-        "netSubmissionStatus": "طلب",
-        "updatedAt": "2026-07-13T16:25:17.247Z",
-        "id": "mrjfnuewov7eki3al",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T16:24:57.272Z",
-        "receiptNumber": 27,
-        "archived": true,
-        "archivedAt": "2026-07-13T16:25:17.247Z"
-      },
-      {
-        "name": "ريماس  بشير عوض",
-        "phone": "01008611456",
-        "notes": "",
-        "extraAmount": 0,
-        "totalAmount": 25,
-        "paidAmount": 0,
-        "dossierStatus": "",
-        "photo40Status": "",
-        "photo50Status": "",
-        "stamp5Status": "طلب",
-        "stamp10Status": "طلب",
-        "netSubmissionStatus": "",
-        "updatedAt": "2026-07-13T17:13:20.515Z",
-        "id": "mrjhe2kj0i1f2qhnw",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T17:13:20.515Z",
-        "receiptNumber": 28
-      },
-      {
-        "name": "محمد السيد رزق مغازى",
-        "phone": "01005592142",
-        "notes": "ثانوى",
-        "extraAmount": 0,
-        "totalAmount": 90,
-        "paidAmount": 90,
-        "dossierStatus": "دفع",
-        "photo40Status": "",
-        "photo50Status": "",
-        "stamp5Status": "دفع",
-        "stamp10Status": "دفع",
-        "netSubmissionStatus": "دفع",
-        "updatedAt": "2026-07-13T17:40:55.165Z",
-        "id": "mrji59jotpchtr42q",
-        "createdBy": "admin",
-        "createdAt": "2026-07-13T17:34:29.268Z",
-        "receiptNumber": 29
       }
     ],
     "sms_setting_whatsapp": "+201557979693",
     "sms_lastBackup": 1783843831338,
+    "sms_users": [
+      {
+        "id": "1",
+        "username": "admin",
+        "password": "admin123",
+        "name": "المدير",
+        "role": "admin",
+        "createdAt": "2026-07-11T23:16:37.776Z"
+      },
+      {
+        "id": "2",
+        "username": "user1",
+        "password": "user123",
+        "name": "موظف",
+        "role": "employee",
+        "createdAt": "2026-07-11T23:16:37.776Z"
+      }
+    ],
     "sms_shakk": {
       "abdullah": [
         {
@@ -551,6 +470,15 @@
           "amount": 20,
           "paid": 0,
           "createdAt": "2026-07-11T16:49:03.298Z"
+        },
+        {
+          "id": "mrizrz94ju905ma6w",
+          "personName": "بابا",
+          "productName": "دفع فاتوره مياه",
+          "amount": 80,
+          "paid": 0,
+          "notes": "",
+          "createdAt": "2026-07-13T09:00:16.312Z"
         }
       ],
       "saad": [
@@ -602,61 +530,25 @@
           "paid": 0,
           "notes": "",
           "createdAt": "2026-07-12T20:25:39.203Z"
-        },
-        {
-          "id": "mrjcalclamjwnltr7",
-          "personName": "منال",
-          "productName": "شحن نت",
-          "amount": 340,
-          "paid": 0,
-          "notes": "",
-          "createdAt": "2026-07-13T14:50:40.149Z"
         }
       ]
     },
-    "sms_users": [
-      {
-        "id": "1",
-        "username": "admin",
-        "password": "admin123",
-        "name": "المدير",
-        "role": "admin",
-        "createdAt": "2026-07-10T16:56:31.734Z"
-      },
-      {
-        "id": "2",
-        "username": "user1",
-        "password": "user123",
-        "name": "موظف",
-        "role": "employee",
-        "createdAt": "2026-07-10T16:56:31.739Z"
-      }
-    ],
     "sms_shikak": {
       "saad": [],
       "abdullah": []
     },
     "sms_github_owner": "elmasharqa",
     "sms_setting_facebook": "https://www.facebook.com/share/19LkFCWJiY/",
-    "sms_github_repo": "mashareqa-data",
     "sms_last_backup_date": "Mon Jul 13 2026",
+    "sms_github_repo": "mashareqa-data",
     "sms_visible_cols": {
       "phoneCol": true,
       "dossierStatus": true
     },
-    "sms_receipt_counter": 29,
+    "sms_receipt_counter": 19,
     "sms_auto_backup_Sun_Jul_12_2026": {
-      "sms_users": "[{\"id\":\"1\",\"username\":\"admin\",\"password\":\"admin123\",\"name\":\"المدير\",\"role\":\"admin\",\"createdAt\":\"2026-07-10T16:56:31.734Z\"},{\"id\":\"2\",\"username\":\"user1\",\"password\":\"user123\",\"name\":\"موظف\",\"role\":\"employee\",\"createdAt\":\"2026-07-10T16:56:31.739Z\"}]",
-      "sms_orders": "[{\"personName\":\"اسامه منصور\",\"productName\":\"تبلوه 30×40\",\"totalPrice\":200,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T11:50:05.892Z\",\"id\":\"mrgayo90m9f7y0lz1\",\"createdAt\":\"2026-07-11T11:50:05.892Z\",\"createdBy\":\"admin\"},{\"personName\":\"لمياء\",\"productName\":\"16 مذكرة\",\"totalPrice\":290,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T18:53:15.867Z\",\"id\":\"mrggokrcdvftshqep\",\"createdAt\":\"2026-07-11T14:30:12.504Z\",\"createdBy\":\"admin\",\"status\":\"طلب\"},{\"personName\":\"سرور\",\"productName\":\"500 جواب\",\"totalPrice\":1000,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T14:31:37.224Z\",\"id\":\"mrggqe4otq0fqupo8\",\"createdAt\":\"2026-07-11T14:31:37.224Z\",\"createdBy\":\"admin\"},{\"personName\":\"اولاد ابوعلى\",\"productName\":\"400 استيكر عادي\",\"totalPrice\":350,\"paidAmount\":0,\"status\":\"طلب\",\"updatedAt\":\"2026-07-11T21:38:04.600Z\",\"id\":\"mrgvyth4cablrkj8b\",\"createdAt\":\"2026-07-11T21:38:04.600Z\",\"createdBy\":\"admin\"}]",
-      "sms_remembered": "{\"username\":\"admin\",\"password\":\"admin123\"}",
-      "sms_naqs": "[{\"id\":\"mrgmvlj7d2taabe19\",\"productName\":\"الكراسي\",\"amount\":0,\"person\":\"\",\"account\":\"لا\",\"createdAt\":\"2026-07-11T17:23:37.796Z\"},{\"id\":\"mrgmvttvuargj73i3\",\"productName\":\"الجوابات\",\"amount\":0,\"person\":\"\",\"account\":\"لا\",\"createdAt\":\"2026-07-11T17:23:48.547Z\"}]",
-      "sms_students": "[{\"name\":\"عبدالرحمن محمد ابراهيم عبد الحى\",\"phone\":\"\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":0,\"dossierStatus\":\"\",\"photo40Status\":\"استلم\",\"photo50Status\":\"استلم\",\"photo80Status\":\"استلم\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"استلم\",\"updatedAt\":\"2026-07-11T18:52:23.543Z\",\"id\":\"mrg5ec8k2apxb3fb8\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T09:14:19.124Z\",\"manuallyHighlighted\":true},{\"name\":\"محمد حجازي عبده\",\"phone\":\"0100799343\",\"notes\":\"\",\"totalAmount\":65,\"paidAmount\":65,\"dossierStatus\":\"\",\"photo40Status\":\"استلم\",\"photo50Status\":\"\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T21:35:14.776Z\",\"id\":\"mrghxw5dg00i0yfbz\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:05:26.785Z\",\"manuallyHighlighted\":true},{\"name\":\"منة علاءعبدالعظيم\",\"phone\":\"0100799343\",\"notes\":\"تكافل وكرامة\",\"totalAmount\":65,\"paidAmount\":65,\"dossierStatus\":\"\",\"photo40Status\":\"استلم\",\"photo50Status\":\"\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T20:51:58.869Z\",\"id\":\"mrghz6m99ryh9s7ia\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:06:27.009Z\",\"manuallyHighlighted\":true},{\"name\":\"زياد وائل\",\"phone\":\"\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":0,\"dossierStatus\":\"\",\"photo40Status\":\"\",\"photo50Status\":\"استلم\",\"photo80Status\":\"\",\"stamp5Status\":\"\",\"stamp10Status\":\"\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T15:50:00.393Z\",\"id\":\"mrgi54yw2dchni119\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:11:04.808Z\",\"manuallyHighlighted\":true}]",
-      "sms_prices": "{\"headers\":[\"الاسم\",\"الدوسيه\",\"صور 40\",\"صور 50\",\"صور 80\",\"طابع 5\",\"طابع 10\",\"تقديم النت\",\"رقم الهاتف\",\"ملاحظات\",\"تاريخ التسجيل\"],\"rows\":[],\"productCol\":0,\"priceCol\":0,\"notes\":{}}",
-      "sms_fees": "[{\"id\":\"mrgssic2fuuwy4hrx\",\"studentName\":\"ياسين هانى محمد\",\"phone\":\"01070364564\",\"year\":\"اولى اعداداى +دفع 115 للوصل 100 للرسوم\",\"takaful\":\"نعم\",\"receiptStatus\":\"استلم\",\"fullStatus\":\"دفع\",\"createdAt\":\"2026-07-11T20:09:11.378Z\",\"dossierReceiptStatus\":\"\"},{\"id\":\"mrgstd3mrdqx99mda\",\"studentName\":\"منه علاء عبد العزيز\",\"phone\":\"0100799343\",\"year\":\"اولى اعدادى +دفت للرسوم 85\",\"takaful\":\"نعم\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"طلب\",\"createdAt\":\"2026-07-11T20:09:51.250Z\"},{\"id\":\"mrgt2ibfcov9m88zh\",\"studentName\":\"ندى محمد مجدى\",\"phone\":\"\",\"year\":\"وصل تقديم دوسية اولى ابتدائي\",\"takaful\":\"لا\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"طلب\",\"createdAt\":\"2026-07-11T20:16:57.915Z\"},{\"id\":\"mrgt5wppa6zxpnif8\",\"studentName\":\"محمد ابراهيم (سوسو سرور)\",\"phone\":\"دفعت 800-430 =370\",\"year\":\"اولى ابتدائي\",\"takaful\":\"لا\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"دفع\",\"createdAt\":\"2026-07-11T20:19:36.541Z\"},{\"id\":\"mrgt8prfxotqix4j3\",\"studentName\":\"محمد هانى عرفه (دعاء السيد)\",\"phone\":\"لم تدفع\",\"year\":\"اولى اعدادى 425\",\"takaful\":\"لا\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"طلب\",\"createdAt\":\"2026-07-11T20:21:47.499Z\"}]",
-      "sms_lastBackup": "1783800350693",
-      "sms_shakk": "{\"abdullah\":[{\"id\":\"mrgln4ualvin6i125\",\"personName\":\"ماما\",\"productName\":\"شهايد وتصوير\",\"amount\":20,\"paid\":0,\"createdAt\":\"2026-07-11T16:49:03.298Z\"}],\"saad\":[{\"id\":\"mrgtpyt0qnufdfd01\",\"personName\":\"طارق حسنى\",\"productName\":\"استلاف\",\"amount\":30,\"paid\":0,\"createdAt\":\"2026-07-11T20:35:12.372Z\"},{\"id\":\"mrgtqwe4avffh7gub\",\"personName\":\"عبير منصور\",\"productName\":\"شحن\",\"amount\":70,\"paid\":0,\"createdAt\":\"2026-07-11T20:35:55.900Z\"},{\"id\":\"mrgtrfok8vtwgmh3p\",\"personName\":\"منال عزت\",\"productName\":\"شحن\",\"amount\":22,\"paid\":0,\"createdAt\":\"2026-07-11T20:36:20.900Z\"},{\"id\":\"mrgtt0cud7q1gpoma\",\"personName\":\"منال\",\"productName\":\"شحن\",\"amount\":35,\"paid\":0,\"createdAt\":\"2026-07-11T20:37:34.350Z\"},{\"id\":\"mrgttdxgu7mn83lcd\",\"personName\":\"امى\",\"productName\":\"شحن لندى\",\"amount\":25,\"paid\":0,\"createdAt\":\"2026-07-11T20:37:51.940Z\"}]}",
-      "sms_theme": "dark",
-      "sms_shikak": "{\"saad\":[],\"abdullah\":[]}"
+      "sms_users": "[{\"id\":\"1\",\"username\":\"admin\",\"password\":\"admin123\",\"name\":\"المدير\",\"role\":\"admin\",\"createdAt\":\"2026-07-11T23:16:37.776Z\"},{\"id\":\"2\",\"username\":\"user1\",\"password\":\"user123\",\"name\":\"موظف\",\"role\":\"employee\",\"createdAt\":\"2026-07-11T23:16:37.776Z\"}]",
+      "sms_students": "[]"
     },
     "sms_github_filepath": "data/mashareqa-backup.json",
     "sms_naqs": [
@@ -707,26 +599,6 @@
         "account": "لا",
         "notes": "4 دست",
         "createdAt": "2026-07-13T12:29:42.939Z"
-      },
-      {
-        "id": "mrjccyuwm8x7zhak1",
-        "productName": "اعمل صورة التخرج",
-        "amount": 0,
-        "quantity": "",
-        "person": "",
-        "account": "لا",
-        "notes": "",
-        "createdAt": "2026-07-13T14:52:30.968Z"
-      },
-      {
-        "id": "mrjcdaf1t12ykw19w",
-        "productName": "اظرف الكبيرة",
-        "amount": 0,
-        "quantity": "",
-        "person": "",
-        "account": "لا",
-        "notes": "",
-        "createdAt": "2026-07-13T14:52:45.949Z"
       }
     ],
     "sms_prices": {
@@ -749,6 +621,34 @@
       "notes": {}
     },
     "sms_fees": [
+      {
+        "id": "mrgssic2fuuwy4hrx",
+        "studentName": "ياسين هانى محمد",
+        "phone": "01070364564",
+        "year": "اولى اعداداى +دفع 115 للوصل 100 للرسوم",
+        "takaful": "نعم",
+        "receiptStatus": "استلم",
+        "fullStatus": "دفع",
+        "createdAt": "2026-07-11T20:09:11.378Z",
+        "dossierReceiptStatus": "",
+        "amount": 80,
+        "paid": 100,
+        "notes": "له 20 جنيه"
+      },
+      {
+        "id": "mrgstd3mrdqx99mda",
+        "studentName": "منه علاء عبد العزيز",
+        "phone": "0100799343",
+        "year": "اولى اعدادى",
+        "takaful": "نعم",
+        "receiptStatus": "طلب",
+        "fullStatus": "طلب",
+        "createdAt": "2026-07-11T20:09:51.250Z",
+        "amount": 200,
+        "paid": 85,
+        "notes": "دافعه كله 150",
+        "dossierReceiptStatus": ""
+      },
       {
         "id": "mrgt2ibfcov9m88zh",
         "studentName": "ندى محمد مجدى",
@@ -842,84 +742,13 @@
         "fullStatus": "",
         "dossierReceiptStatus": "",
         "createdAt": "2026-07-13T08:34:37.229Z"
-      },
-      {
-        "id": "mrjej9jlphho1tyex",
-        "studentName": "محمد حجازى",
-        "phone": "01007993413",
-        "year": "اولى اعدادى",
-        "amount": 550,
-        "paid": 550,
-        "notes": "",
-        "takaful": "لا",
-        "receiptStatus": "دفع",
-        "fullStatus": "دفع",
-        "dossierReceiptStatus": "",
-        "createdAt": "2026-07-13T15:53:23.985Z"
-      },
-      {
-        "id": "mrjf79mem3oyidrq9",
-        "studentName": "محمد رامى فتوح",
-        "phone": "01013679866",
-        "year": "اولى اعدادى",
-        "amount": 120,
-        "paid": 0,
-        "notes": "",
-        "takaful": "نعم",
-        "receiptStatus": "دفع",
-        "fullStatus": "",
-        "dossierReceiptStatus": "",
-        "createdAt": "2026-07-13T16:12:03.830Z"
-      },
-      {
-        "id": "mrjfsm6oucyafhvre",
-        "studentName": "مسيو هانى",
-        "phone": "",
-        "year": "اولى ثانوى",
-        "amount": 0,
-        "paid": 0,
-        "notes": "",
-        "takaful": "لا",
-        "receiptStatus": "",
-        "fullStatus": "طلب",
-        "dossierReceiptStatus": "",
-        "createdAt": "2026-07-13T16:28:39.888Z"
-      },
-      {
-        "id": "mrjhfggybu1hoz8sa",
-        "studentName": "ريماس  بشير عوض",
-        "phone": "01008611456",
-        "year": "اولى اعدادى",
-        "amount": 550,
-        "paid": 550,
-        "notes": "",
-        "takaful": "لا",
-        "receiptStatus": "دفع",
-        "fullStatus": "دفع",
-        "dossierReceiptStatus": "",
-        "createdAt": "2026-07-13T17:14:25.186Z"
       }
     ],
     "sms_theme": "dark",
     "sms_auto_backup_Mon_Jul_13_2026": {
-      "sms_manual_backup_2026-07-11T22-16-02-633Z": "{\"sms_users\":\"[{\\\"id\\\":\\\"1\\\",\\\"username\\\":\\\"admin\\\",\\\"password\\\":\\\"admin123\\\",\\\"name\\\":\\\"المدير\\\",\\\"role\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-10T16:56:31.734Z\\\"},{\\\"id\\\":\\\"2\\\",\\\"username\\\":\\\"user1\\\",\\\"password\\\":\\\"user123\\\",\\\"name\\\":\\\"موظف\\\",\\\"role\\\":\\\"employee\\\",\\\"createdAt\\\":\\\"2026-07-10T16:56:31.739Z\\\"}]\",\"sms_last_backup_date\":\"Sun Jul 12 2026\",\"sms_orders\":\"[{\\\"personName\\\":\\\"اسامه منصور\\\",\\\"productName\\\":\\\"تبلوه 30×40\\\",\\\"totalPrice\\\":200,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T11:50:05.892Z\\\",\\\"id\\\":\\\"mrgayo90m9f7y0lz1\\\",\\\"createdAt\\\":\\\"2026-07-11T11:50:05.892Z\\\",\\\"createdBy\\\":\\\"admin\\\"},{\\\"personName\\\":\\\"لمياء\\\",\\\"productName\\\":\\\"16 مذكرة\\\",\\\"totalPrice\\\":290,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T18:53:15.867Z\\\",\\\"id\\\":\\\"mrggokrcdvftshqep\\\",\\\"createdAt\\\":\\\"2026-07-11T14:30:12.504Z\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"status\\\":\\\"طلب\\\"},{\\\"personName\\\":\\\"سرور\\\",\\\"productName\\\":\\\"500 جواب\\\",\\\"totalPrice\\\":1000,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T14:31:37.224Z\\\",\\\"id\\\":\\\"mrggqe4otq0fqupo8\\\",\\\"createdAt\\\":\\\"2026-07-11T14:31:37.224Z\\\",\\\"createdBy\\\":\\\"admin\\\"},{\\\"personName\\\":\\\"اولاد ابوعلى\\\",\\\"productName\\\":\\\"400 استيكر عادي\\\",\\\"totalPrice\\\":350,\\\"paidAmount\\\":0,\\\"status\\\":\\\"طلب\\\",\\\"updatedAt\\\":\\\"2026-07-11T21:38:04.600Z\\\",\\\"id\\\":\\\"mrgvyth4cablrkj8b\\\",\\\"createdAt\\\":\\\"2026-07-11T21:38:04.600Z\\\",\\\"createdBy\\\":\\\"admin\\\"}]\",\"sms_remembered\":\"{\\\"username\\\":\\\"admin\\\",\\\"password\\\":\\\"admin123\\\"}\",\"sms_naqs\":\"[{\\\"id\\\":\\\"mrgmvlj7d2taabe19\\\",\\\"productName\\\":\\\"الكراسي\\\",\\\"amount\\\":0,\\\"person\\\":\\\"\\\",\\\"account\\\":\\\"لا\\\",\\\"createdAt\\\":\\\"2026-07-11T17:23:37.796Z\\\"},{\\\"id\\\":\\\"mrgmvttvuargj73i3\\\",\\\"productName\\\":\\\"الجوابات\\\",\\\"amount\\\":0,\\\"person\\\":\\\"\\\",\\\"account\\\":\\\"لا\\\",\\\"createdAt\\\":\\\"2026-07-11T17:23:48.547Z\\\"}]\",\"sms_students\":\"[{\\\"name\\\":\\\"عبدالرحمن محمد ابراهيم عبد الحى\\\",\\\"phone\\\":\\\"\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":130,\\\"paidAmount\\\":130,\\\"dossierStatus\\\":\\\"استلم\\\",\\\"photo40Status\\\":\\\"\\\",\\\"photo50Status\\\":\\\"استلم\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"استلم\\\",\\\"updatedAt\\\":\\\"2026-07-11T22:14:36.193Z\\\",\\\"id\\\":\\\"mrg5ec8k2apxb3fb8\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T09:14:19.124Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"محمد حجازي عبده\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":65,\\\"paidAmount\\\":65,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"استلم\\\",\\\"photo50Status\\\":\\\"\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T21:35:14.776Z\\\",\\\"id\\\":\\\"mrghxw5dg00i0yfbz\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:05:26.785Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"منة علاءعبدالعظيم\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"notes\\\":\\\"تكافل وكرامة\\\",\\\"totalAmount\\\":65,\\\"paidAmount\\\":65,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"استلم\\\",\\\"photo50Status\\\":\\\"\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T20:51:58.869Z\\\",\\\"id\\\":\\\"mrghz6m99ryh9s7ia\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:06:27.009Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"زياد وائل\\\",\\\"phone\\\":\\\"\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":0,\\\"paidAmount\\\":0,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"\\\",\\\"photo50Status\\\":\\\"استلم\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"\\\",\\\"stamp10Status\\\":\\\"\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T15:50:00.393Z\\\",\\\"id\\\":\\\"mrgi54yw2dchni119\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:11:04.808Z\\\",\\\"manuallyHighlighted\\\":true}]\",\"sms_prices\":\"{\\\"headers\\\":[\\\"الاسم\\\",\\\"الدوسيه\\\",\\\"صور 40\\\",\\\"صور 50\\\",\\\"صور 80\\\",\\\"طابع 5\\\",\\\"طابع 10\\\",\\\"تقديم النت\\\",\\\"رقم الهاتف\\\",\\\"ملاحظات\\\",\\\"تاريخ التسجيل\\\"],\\\"rows\\\":[],\\\"productCol\\\":0,\\\"priceCol\\\":0,\\\"notes\\\":{}}\",\"sms_fees\":\"[{\\\"id\\\":\\\"mrgssic2fuuwy4hrx\\\",\\\"studentName\\\":\\\"ياسين هانى محمد\\\",\\\"phone\\\":\\\"01070364564\\\",\\\"year\\\":\\\"اولى اعداداى +دفع 115 للوصل 100 للرسوم\\\",\\\"takaful\\\":\\\"نعم\\\",\\\"receiptStatus\\\":\\\"استلم\\\",\\\"fullStatus\\\":\\\"دفع\\\",\\\"createdAt\\\":\\\"2026-07-11T20:09:11.378Z\\\",\\\"dossierReceiptStatus\\\":\\\"\\\"},{\\\"id\\\":\\\"mrgstd3mrdqx99mda\\\",\\\"studentName\\\":\\\"منه علاء عبد العزيز\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"year\\\":\\\"اولى اعدادى +دفت للرسوم 85\\\",\\\"takaful\\\":\\\"نعم\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:09:51.250Z\\\"},{\\\"id\\\":\\\"mrgt2ibfcov9m88zh\\\",\\\"studentName\\\":\\\"ندى محمد مجدى\\\",\\\"phone\\\":\\\"\\\",\\\"year\\\":\\\"وصل تقديم دوسية اولى ابتدائي\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:16:57.915Z\\\"},{\\\"id\\\":\\\"mrgt5wppa6zxpnif8\\\",\\\"studentName\\\":\\\"محمد ابراهيم (سوسو سرور)\\\",\\\"phone\\\":\\\"دفعت 800-430 =370\\\",\\\"year\\\":\\\"اولى ابتدائي\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"دفع\\\",\\\"createdAt\\\":\\\"2026-07-11T20:19:36.541Z\\\"},{\\\"id\\\":\\\"mrgt8prfxotqix4j3\\\",\\\"studentName\\\":\\\"محمد هانى عرفه (دعاء السيد)\\\",\\\"phone\\\":\\\"لم تدفع\\\",\\\"year\\\":\\\"اولى اعدادى 425\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:21:47.499Z\\\"}]\",\"sms_lastBackup\":\"1783800350693\",\"sms_shakk\":\"{\\\"abdullah\\\":[{\\\"id\\\":\\\"mrgln4ualvin6i125\\\",\\\"personName\\\":\\\"ماما\\\",\\\"productName\\\":\\\"شهايد وتصوير\\\",\\\"amount\\\":20,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T16:49:03.298Z\\\"}],\\\"saad\\\":[{\\\"id\\\":\\\"mrgtpyt0qnufdfd01\\\",\\\"personName\\\":\\\"طارق حسنى\\\",\\\"productName\\\":\\\"استلاف\\\",\\\"amount\\\":30,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:35:12.372Z\\\"},{\\\"id\\\":\\\"mrgtqwe4avffh7gub\\\",\\\"personName\\\":\\\"عبير منصور\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":70,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:35:55.900Z\\\"},{\\\"id\\\":\\\"mrgtrfok8vtwgmh3p\\\",\\\"personName\\\":\\\"منال عزت\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":22,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:36:20.900Z\\\"},{\\\"id\\\":\\\"mrgtt0cud7q1gpoma\\\",\\\"personName\\\":\\\"منال\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":35,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:37:34.350Z\\\"},{\\\"id\\\":\\\"mrgttdxgu7mn83lcd\\\",\\\"personName\\\":\\\"امى\\\",\\\"productName\\\":\\\"شحن لندى\\\",\\\"amount\\\":25,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:37:51.940Z\\\"}]}\",\"sms_theme\":\"dark\",\"sms_shikak\":\"{\\\"saad\\\":[],\\\"abdullah\\\":[]}\"}",
-      "sms_orders": "[{\"personName\":\"اسامه منصور\",\"productName\":\"تبلوه 30×40\",\"totalPrice\":200,\"paidAmount\":0,\"updatedAt\":\"2026-07-11T11:50:05.892Z\",\"id\":\"mrgayo90m9f7y0lz1\",\"createdAt\":\"2026-07-11T11:50:05.892Z\",\"createdBy\":\"admin\"},{\"personName\":\"اولاد ابوعلى\",\"productName\":\"400 استيكر عادي\",\"totalPrice\":350,\"paidAmount\":0,\"status\":\"طلب\",\"updatedAt\":\"2026-07-11T21:38:04.600Z\",\"id\":\"mrgvyth4cablrkj8b\",\"createdAt\":\"2026-07-11T21:38:04.600Z\",\"createdBy\":\"admin\"},{\"personName\":\"ا هناء نعيم\",\"productName\":\"تصوير ورقى\",\"totalPrice\":40,\"paidAmount\":0,\"status\":\"طلب\",\"notes\":\"\",\"updatedAt\":\"2026-07-12T11:25:34.921Z\",\"id\":\"mrhnuej5hokg6shml\",\"createdAt\":\"2026-07-12T10:38:27.857Z\",\"createdBy\":\"admin\"}]",
-      "sms_remembered": "{\"username\":\"admin\",\"password\":\"admin123\"}",
-      "sms_manual_backup_2026-07-12T08-10-25-049Z": "{\"sms_orders\":\"[{\\\"personName\\\":\\\"اسامه منصور\\\",\\\"productName\\\":\\\"تبلوه 30×40\\\",\\\"totalPrice\\\":200,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T11:50:05.892Z\\\",\\\"id\\\":\\\"mrgayo90m9f7y0lz1\\\",\\\"createdAt\\\":\\\"2026-07-11T11:50:05.892Z\\\",\\\"createdBy\\\":\\\"admin\\\"},{\\\"personName\\\":\\\"ا/لمياء\\\",\\\"productName\\\":\\\"16 مذكرة\\\",\\\"totalPrice\\\":290,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T22:53:27.227Z\\\",\\\"id\\\":\\\"mrggokrcdvftshqep\\\",\\\"createdAt\\\":\\\"2026-07-11T14:30:12.504Z\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"status\\\":\\\"طلب\\\"},{\\\"personName\\\":\\\"سرور\\\",\\\"productName\\\":\\\"500 جواب\\\",\\\"totalPrice\\\":1000,\\\"paidAmount\\\":0,\\\"updatedAt\\\":\\\"2026-07-11T14:31:37.224Z\\\",\\\"id\\\":\\\"mrggqe4otq0fqupo8\\\",\\\"createdAt\\\":\\\"2026-07-11T14:31:37.224Z\\\",\\\"createdBy\\\":\\\"admin\\\"},{\\\"personName\\\":\\\"اولاد ابوعلى\\\",\\\"productName\\\":\\\"400 استيكر عادي\\\",\\\"totalPrice\\\":350,\\\"paidAmount\\\":0,\\\"status\\\":\\\"طلب\\\",\\\"updatedAt\\\":\\\"2026-07-11T21:38:04.600Z\\\",\\\"id\\\":\\\"mrgvyth4cablrkj8b\\\",\\\"createdAt\\\":\\\"2026-07-11T21:38:04.600Z\\\",\\\"createdBy\\\":\\\"admin\\\"}]\",\"sms_remembered\":\"{\\\"username\\\":\\\"admin\\\",\\\"password\\\":\\\"admin123\\\"}\",\"sms_students\":\"[{\\\"name\\\":\\\"عبدالرحمن محمد ابراهيم عبد الحى\\\",\\\"phone\\\":\\\"\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":0,\\\"paidAmount\\\":130,\\\"dossierStatus\\\":\\\"استلم\\\",\\\"photo40Status\\\":\\\"\\\",\\\"photo50Status\\\":\\\"استلم\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"استلم\\\",\\\"updatedAt\\\":\\\"2026-07-11T23:32:08.204Z\\\",\\\"id\\\":\\\"mrg5ec8k2apxb3fb8\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T09:14:19.124Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"محمد حجازي عبده\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":0,\\\"paidAmount\\\":65,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"استلم\\\",\\\"photo50Status\\\":\\\"\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T23:32:09.004Z\\\",\\\"id\\\":\\\"mrghxw5dg00i0yfbz\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:05:26.785Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"منة علاءعبدالعظيم\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"notes\\\":\\\"تكافل وكرامة\\\",\\\"totalAmount\\\":65,\\\"paidAmount\\\":65,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"استلم\\\",\\\"photo50Status\\\":\\\"\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"استلم\\\",\\\"stamp10Status\\\":\\\"استلم\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T20:51:58.869Z\\\",\\\"id\\\":\\\"mrghz6m99ryh9s7ia\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:06:27.009Z\\\",\\\"manuallyHighlighted\\\":true},{\\\"name\\\":\\\"زياد وائل\\\",\\\"phone\\\":\\\"\\\",\\\"notes\\\":\\\"\\\",\\\"totalAmount\\\":0,\\\"paidAmount\\\":0,\\\"dossierStatus\\\":\\\"\\\",\\\"photo40Status\\\":\\\"\\\",\\\"photo50Status\\\":\\\"استلم\\\",\\\"photo80Status\\\":\\\"\\\",\\\"stamp5Status\\\":\\\"\\\",\\\"stamp10Status\\\":\\\"\\\",\\\"netSubmissionStatus\\\":\\\"\\\",\\\"updatedAt\\\":\\\"2026-07-11T23:32:10.172Z\\\",\\\"id\\\":\\\"mrgi54yw2dchni119\\\",\\\"createdBy\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-11T15:11:04.808Z\\\",\\\"manuallyHighlighted\\\":true}]\",\"sms_setting_whatsapp\":\"+201557979693\",\"sms_lastBackup\":\"1783800350693\",\"sms_users\":\"[{\\\"id\\\":\\\"1\\\",\\\"username\\\":\\\"admin\\\",\\\"password\\\":\\\"admin123\\\",\\\"name\\\":\\\"المدير\\\",\\\"role\\\":\\\"admin\\\",\\\"createdAt\\\":\\\"2026-07-10T16:56:31.734Z\\\"},{\\\"id\\\":\\\"2\\\",\\\"username\\\":\\\"user1\\\",\\\"password\\\":\\\"user123\\\",\\\"name\\\":\\\"موظف\\\",\\\"role\\\":\\\"employee\\\",\\\"createdAt\\\":\\\"2026-07-10T16:56:31.739Z\\\"}]\",\"sms_shakk\":\"{\\\"abdullah\\\":[{\\\"id\\\":\\\"mrgln4ualvin6i125\\\",\\\"personName\\\":\\\"ماما\\\",\\\"productName\\\":\\\"شهايد وتصوير\\\",\\\"amount\\\":20,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T16:49:03.298Z\\\"}],\\\"saad\\\":[{\\\"id\\\":\\\"mrgtpyt0qnufdfd01\\\",\\\"personName\\\":\\\"طارق حسنى\\\",\\\"productName\\\":\\\"استلاف\\\",\\\"amount\\\":30,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:35:12.372Z\\\"},{\\\"id\\\":\\\"mrgtqwe4avffh7gub\\\",\\\"personName\\\":\\\"عبير منصور\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":70,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:35:55.900Z\\\"},{\\\"id\\\":\\\"mrgtrfok8vtwgmh3p\\\",\\\"personName\\\":\\\"منال عزت\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":22,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:36:20.900Z\\\"},{\\\"id\\\":\\\"mrgtt0cud7q1gpoma\\\",\\\"personName\\\":\\\"منال\\\",\\\"productName\\\":\\\"شحن\\\",\\\"amount\\\":35,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:37:34.350Z\\\"},{\\\"id\\\":\\\"mrgttdxgu7mn83lcd\\\",\\\"personName\\\":\\\"امى\\\",\\\"productName\\\":\\\"شحن لندى\\\",\\\"amount\\\":25,\\\"paid\\\":0,\\\"createdAt\\\":\\\"2026-07-11T20:37:51.940Z\\\"}]}\",\"sms_shikak\":\"{\\\"saad\\\":[],\\\"abdullah\\\":[]}\",\"sms_setting_facebook\":\"https://www.facebook.com/share/19LkFCWJiY/\",\"sms_last_backup_date\":\"Sun Jul 12 2026\",\"sms_visible_cols\":\"{\\\"phoneCol\\\":true,\\\"dossierStatus\\\":true}\",\"sms_naqs\":\"[{\\\"id\\\":\\\"mrgmvlj7d2taabe19\\\",\\\"productName\\\":\\\"الكراسي\\\",\\\"amount\\\":0,\\\"person\\\":\\\"\\\",\\\"account\\\":\\\"لا\\\",\\\"createdAt\\\":\\\"2026-07-11T17:23:37.796Z\\\"},{\\\"id\\\":\\\"mrgmvttvuargj73i3\\\",\\\"productName\\\":\\\"الجوابات\\\",\\\"amount\\\":0,\\\"person\\\":\\\"\\\",\\\"account\\\":\\\"لا\\\",\\\"createdAt\\\":\\\"2026-07-11T17:23:48.547Z\\\"}]\",\"sms_prices\":\"{\\\"headers\\\":[\\\"الاسم\\\",\\\"الدوسيه\\\",\\\"صور 40\\\",\\\"صور 50\\\",\\\"صور 80\\\",\\\"طابع 5\\\",\\\"طابع 10\\\",\\\"تقديم النت\\\",\\\"رقم الهاتف\\\",\\\"ملاحظات\\\",\\\"تاريخ التسجيل\\\"],\\\"rows\\\":[],\\\"productCol\\\":0,\\\"priceCol\\\":0,\\\"notes\\\":{}}\",\"sms_fees\":\"[{\\\"id\\\":\\\"mrgssic2fuuwy4hrx\\\",\\\"studentName\\\":\\\"ياسين هانى محمد\\\",\\\"phone\\\":\\\"01070364564\\\",\\\"year\\\":\\\"اولى اعداداى +دفع 115 للوصل 100 للرسوم\\\",\\\"takaful\\\":\\\"نعم\\\",\\\"receiptStatus\\\":\\\"استلم\\\",\\\"fullStatus\\\":\\\"دفع\\\",\\\"createdAt\\\":\\\"2026-07-11T20:09:11.378Z\\\",\\\"dossierReceiptStatus\\\":\\\"\\\"},{\\\"id\\\":\\\"mrgstd3mrdqx99mda\\\",\\\"studentName\\\":\\\"منه علاء عبد العزيز\\\",\\\"phone\\\":\\\"0100799343\\\",\\\"year\\\":\\\"اولى اعدادى +دفعت للرسوم 85\\\",\\\"takaful\\\":\\\"نعم\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:09:51.250Z\\\",\\\"amount\\\":0,\\\"paid\\\":0,\\\"notes\\\":\\\"\\\",\\\"dossierReceiptStatus\\\":\\\"\\\"},{\\\"id\\\":\\\"mrgt2ibfcov9m88zh\\\",\\\"studentName\\\":\\\"ندى محمد مجدى\\\",\\\"phone\\\":\\\"\\\",\\\"year\\\":\\\"وصل تقديم دوسية اولى ابتدائي\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:16:57.915Z\\\"},{\\\"id\\\":\\\"mrgt5wppa6zxpnif8\\\",\\\"studentName\\\":\\\"محمد ابراهيم (سوسو سرور)\\\",\\\"phone\\\":\\\"دفعت 800-430 =370\\\",\\\"year\\\":\\\"اولى ابتدائي\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"دفع\\\",\\\"createdAt\\\":\\\"2026-07-11T20:19:36.541Z\\\"},{\\\"id\\\":\\\"mrgt8prfxotqix4j3\\\",\\\"studentName\\\":\\\"محمد هانى عرفه (دعاء السيد)\\\",\\\"phone\\\":\\\"لم تدفع\\\",\\\"year\\\":\\\"اولى اعدادى 425\\\",\\\"takaful\\\":\\\"لا\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"طلب\\\",\\\"createdAt\\\":\\\"2026-07-11T20:21:47.499Z\\\"},{\\\"id\\\":\\\"mrhi03bsshl9pkosr\\\",\\\"studentName\\\":\\\"هدي همام احمد\\\",\\\"phone\\\":\\\"01064451982\\\",\\\"year\\\":\\\"اولى اعدادي\\\",\\\"amount\\\":120,\\\"paid\\\":0,\\\"notes\\\":\\\"\\\",\\\"takaful\\\":\\\"نعم\\\",\\\"receiptStatus\\\":\\\"طلب\\\",\\\"fullStatus\\\":\\\"\\\",\\\"dossierReceiptStatus\\\":\\\"\\\",\\\"createdAt\\\":\\\"2026-07-12T07:54:55.576Z\\\"}]\",\"sms_theme\":\"dark\"}",
-      "sms_students": "[{\"name\":\"عبدالرحمن محمد ابراهيم عبد الحى\",\"phone\":\"\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":130,\"dossierStatus\":\"استلم\",\"photo40Status\":\"\",\"photo50Status\":\"استلم\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"استلم\",\"updatedAt\":\"2026-07-11T23:32:08.204Z\",\"id\":\"mrg5ec8k2apxb3fb8\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T09:14:19.124Z\",\"manuallyHighlighted\":true},{\"name\":\"محمد حجازي عبده\",\"phone\":\"0100799343\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":65,\"dossierStatus\":\"\",\"photo40Status\":\"استلم\",\"photo50Status\":\"\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T23:32:09.004Z\",\"id\":\"mrghxw5dg00i0yfbz\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:05:26.785Z\",\"manuallyHighlighted\":true},{\"name\":\"منة علاءعبدالعظيم\",\"phone\":\"0100799343\",\"notes\":\"تكافل وكرامة\",\"totalAmount\":65,\"paidAmount\":65,\"dossierStatus\":\"\",\"photo40Status\":\"استلم\",\"photo50Status\":\"\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T20:51:58.869Z\",\"id\":\"mrghz6m99ryh9s7ia\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:06:27.009Z\",\"manuallyHighlighted\":true},{\"name\":\"زياد وائل\",\"phone\":\"\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":0,\"dossierStatus\":\"\",\"photo40Status\":\"\",\"photo50Status\":\"استلم\",\"photo80Status\":\"\",\"stamp5Status\":\"\",\"stamp10Status\":\"\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-11T23:32:10.172Z\",\"id\":\"mrgi54yw2dchni119\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-11T15:11:04.808Z\",\"manuallyHighlighted\":true},{\"name\":\"دعاء السيد\",\"phone\":\"\",\"notes\":\"لم تدفعهم واستلمتهم\",\"totalAmount\":25,\"paidAmount\":0,\"dossierStatus\":\"\",\"photo40Status\":\"\",\"photo50Status\":\"\",\"photo80Status\":\"\",\"stamp5Status\":\"طلب\",\"stamp10Status\":\"طلب\",\"netSubmissionStatus\":\"\",\"updatedAt\":\"2026-07-12T14:50:12.609Z\",\"id\":\"mrhotzsg4t8byfd27\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-12T11:06:08.368Z\",\"receiptNumber\":1},{\"name\":\"لوجى احمد مصطفى كامل\",\"phone\":\"01091049290\",\"notes\":\"\",\"totalAmount\":0,\"paidAmount\":130,\"dossierStatus\":\"استلم\",\"photo40Status\":\"\",\"photo50Status\":\"استلم\",\"photo80Status\":\"\",\"stamp5Status\":\"استلم\",\"stamp10Status\":\"استلم\",\"netSubmissionStatus\":\"استلم\",\"updatedAt\":\"2026-07-12T18:40:06.975Z\",\"id\":\"mrhxlvybmknhpr0m0\",\"createdBy\":\"admin\",\"createdAt\":\"2026-07-12T15:11:46.691Z\",\"receiptNumber\":3}]",
-      "sms_setting_whatsapp": "+201557979693",
-      "sms_lastBackup": "1783843831338",
-      "sms_shakk": "{\"abdullah\":[{\"id\":\"mrgln4ualvin6i125\",\"personName\":\"ماما\",\"productName\":\"شهايد وتصوير\",\"amount\":20,\"paid\":0,\"createdAt\":\"2026-07-11T16:49:03.298Z\"},{\"id\":\"mrhmxrnzlq9pn6do4\",\"personName\":\"بابا> له\",\"productName\":\"طوابع\",\"amount\":230,\"paid\":0,\"notes\":\"كان ليه 400  /سعد خد 100 / 70 ردة\",\"createdAt\":\"2026-07-12T10:13:05.231Z\"}],\"saad\":[{\"id\":\"mrgtpyt0qnufdfd01\",\"personName\":\"طارق حسنى\",\"productName\":\"استلاف\",\"amount\":30,\"paid\":0,\"createdAt\":\"2026-07-11T20:35:12.372Z\"},{\"id\":\"mrgtqwe4avffh7gub\",\"personName\":\"عبير منصور\",\"productName\":\"شحن\",\"amount\":70,\"paid\":0,\"createdAt\":\"2026-07-11T20:35:55.900Z\"},{\"id\":\"mrgtrfok8vtwgmh3p\",\"personName\":\"منال عزت\",\"productName\":\"شحن\",\"amount\":22,\"paid\":0,\"createdAt\":\"2026-07-11T20:36:20.900Z\"},{\"id\":\"mrgtt0cud7q1gpoma\",\"personName\":\"منال\",\"productName\":\"شحن\",\"amount\":35,\"paid\":0,\"createdAt\":\"2026-07-11T20:37:34.350Z\"},{\"id\":\"mrgttdxgu7mn83lcd\",\"personName\":\"امى\",\"productName\":\"شحن لندى\",\"amount\":25,\"paid\":0,\"createdAt\":\"2026-07-11T20:37:51.940Z\"},{\"id\":\"mri8tj7naf9q5hsba\",\"personName\":\"دعاء السيد\",\"productName\":\"شحن\",\"amount\":22,\"paid\":0,\"notes\":\"\",\"createdAt\":\"2026-07-12T20:25:39.203Z\"},{\"id\":\"mri8u13v3b4fd0rdn\",\"personName\":\"بابا\",\"productName\":\"شحن باقه فليكس\",\"amount\":80,\"paid\":0,\"notes\":\"\",\"createdAt\":\"2026-07-12T20:26:02.395Z\"}]}",
-      "sms_users": "[{\"id\":\"1\",\"username\":\"admin\",\"password\":\"admin123\",\"name\":\"المدير\",\"role\":\"admin\",\"createdAt\":\"2026-07-10T16:56:31.734Z\"},{\"id\":\"2\",\"username\":\"user1\",\"password\":\"user123\",\"name\":\"موظف\",\"role\":\"employee\",\"createdAt\":\"2026-07-10T16:56:31.739Z\"}]",
-      "sms_shikak": "{\"saad\":[],\"abdullah\":[]}",
-      "sms_setting_facebook": "https://www.facebook.com/share/19LkFCWJiY/",
       "sms_last_backup_date": "Sun Jul 12 2026",
-      "sms_visible_cols": "{\"phoneCol\":true,\"dossierStatus\":true}",
-      "sms_receipt_counter": "3",
-      "sms_naqs": "[{\"id\":\"mrgmvlj7d2taabe19\",\"productName\":\"الكراسي\",\"amount\":0,\"person\":\"\",\"account\":\"لا\",\"createdAt\":\"2026-07-11T17:23:37.796Z\"},{\"id\":\"mrhnwpxrw7yvsvd2v\",\"productName\":\"حبرMAGIC\",\"amount\":0,\"quantity\":\"1\",\"person\":\"\",\"account\":\"لا\",\"notes\":\"\",\"createdAt\":\"2026-07-12T10:40:15.951Z\"}]",
-      "sms_prices": "{\"headers\":[\"الاسم\",\"الدوسيه\",\"صور 40\",\"صور 50\",\"صور 80\",\"طابع 5\",\"طابع 10\",\"تقديم النت\",\"رقم الهاتف\",\"ملاحظات\",\"تاريخ التسجيل\"],\"rows\":[],\"productCol\":0,\"priceCol\":0,\"notes\":{}}",
-      "sms_fees": "[{\"id\":\"mrgssic2fuuwy4hrx\",\"studentName\":\"ياسين هانى محمد\",\"phone\":\"01070364564\",\"year\":\"اولى اعداداى +دفع 115 للوصل 100 للرسوم\",\"takaful\":\"نعم\",\"receiptStatus\":\"استلم\",\"fullStatus\":\"دفع\",\"createdAt\":\"2026-07-11T20:09:11.378Z\",\"dossierReceiptStatus\":\"\",\"amount\":80,\"paid\":100,\"notes\":\"له 20 جنيه\"},{\"id\":\"mrgstd3mrdqx99mda\",\"studentName\":\"منه علاء عبد العزيز\",\"phone\":\"0100799343\",\"year\":\"اولى اعدادى\",\"takaful\":\"نعم\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"طلب\",\"createdAt\":\"2026-07-11T20:09:51.250Z\",\"amount\":200,\"paid\":85,\"notes\":\"دافعه كله 150\",\"dossierReceiptStatus\":\"\"},{\"id\":\"mrgt2ibfcov9m88zh\",\"studentName\":\"ندى محمد مجدى\",\"phone\":\"\",\"year\":\"اولى ابتدائي\",\"takaful\":\"لا\",\"receiptStatus\":\"\",\"fullStatus\":\"\",\"createdAt\":\"2026-07-11T20:16:57.915Z\",\"amount\":120,\"paid\":0,\"notes\":\"طلبت بس مدفعتش ولازم يعدى 4ل6 ايام عشان وصل التسجيل\",\"dossierReceiptStatus\":\"طلب\"},{\"id\":\"mrgt5wppa6zxpnif8\",\"studentName\":\"محمد ابراهيم (سوسو سرور)\",\"phone\":\"دفعت 800-430 =370\",\"year\":\"اولى ابتدائي\",\"takaful\":\"لا\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"دفع\",\"createdAt\":\"2026-07-11T20:19:36.541Z\"},{\"id\":\"mrgt8prfxotqix4j3\",\"studentName\":\"محمد هانى عرفه (دعاء السيد)\",\"phone\":\"لم تدفع\",\"year\":\"اولى اعدادى 550\",\"takaful\":\"لا\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"طلب\",\"createdAt\":\"2026-07-11T20:21:47.499Z\",\"amount\":0,\"paid\":0,\"notes\":\"استلمت وصل الرسوم ولم تدفع  لسه لها وصل ال105 لسه\",\"dossierReceiptStatus\":\"\"},{\"id\":\"mrhi03bsshl9pkosr\",\"studentName\":\"هدي همام احمد\",\"phone\":\"01064451982\",\"year\":\"اولى اعدادي\",\"amount\":0,\"paid\":0,\"notes\":\"دفع قبل كدا معلهوش حاجه\",\"takaful\":\"نعم\",\"receiptStatus\":\"طلب\",\"fullStatus\":\"\",\"dossierReceiptStatus\":\"\",\"createdAt\":\"2026-07-12T07:54:55.576Z\"},{\"id\":\"mrhmtbnjf2zkkhrt1\",\"studentName\":\"مالك خالد عوض مرشيدى\",\"phone\":\"\",\"year\":\"اولى ابتدائي\",\"amount\":550,\"paid\":550,\"notes\":\"\",\"takaful\":\"لا\",\"receiptStatus\":\"\",\"fullStatus\":\"دفع\",\"dossierReceiptStatus\":\"دفع\",\"createdAt\":\"2026-07-12T10:09:37.855Z\"},{\"id\":\"mri3vuoflhm38qp13\",\"studentName\":\"لوجى احمد مصطفى كمال\",\"phone\":\"01091049290\",\"year\":\"حضانه\",\"amount\":550,\"paid\":550,\"notes\":\"\",\"takaful\":\"لا\",\"receiptStatus\":\"\",\"fullStatus\":\"دفع\",\"dossierReceiptStatus\":\"دفع\",\"createdAt\":\"2026-07-12T18:07:29.295Z\"}]",
-      "sms_theme": "dark"
+      "sms_students": "[]",
+      "sms_users": "[{\"id\":\"1\",\"username\":\"admin\",\"password\":\"admin123\",\"name\":\"المدير\",\"role\":\"admin\",\"createdAt\":\"2026-07-11T23:16:37.776Z\"},{\"id\":\"2\",\"username\":\"user1\",\"password\":\"user123\",\"name\":\"موظف\",\"role\":\"employee\",\"createdAt\":\"2026-07-11T23:16:37.776Z\"}]"
     }
   }
 }
